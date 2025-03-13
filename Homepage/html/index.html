@@ -9,7 +9,7 @@
     <link rel="icon" href="../image/icons8-arbeitsablauf-gradient-64.png">
     <link rel="icon" href="../image/icons8-arbeitsablauf-gradient-96.png">
 
-    <title>Lokii`s World</title>
+    <title>Lokii`s Welt</title>
     
     <link rel="stylesheet" href="../css/index.css">
     <script src="../js/index.js"></script>
@@ -22,18 +22,19 @@
             </a>
         </div>
         <div class="divContainerMiddle">
-            <h1>Lokii`s World</h1>
+            <h1>Lokii`s Welt</h1>
         </div>
         <div id="divContainerRight">
-            <a href="login.html" id="login">Login</a>
+            <button type="button" id="loginBtnCurserSwitch" onclick="loginBtn()">Login</button>
             <a href="register.html" id="register">Register</a>
         </div>
     </header>
     <nav>
+        <h2 id="navHeader">Navigation</h2>
         <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href=".html">About</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="uebermich.html">About</a></li>
+            <li><a href="kontakt.html">Contact</a></li>
         </ul>
     </nav>
     <main>
@@ -42,7 +43,15 @@
         </div>
     </main>
     <aside>
-
+        <div id="divContainerLogin">
+            <label for="username">User Name</label>
+            <input type="input" id="username"/>
+            <br>
+            <label for="">Password</label>
+            <br>
+            <input type="input" id="password"/>
+            <button type="button" id="login">Login</button>
+        </div>
     </aside>
     <footer>
         <div class="divContainerFooterSince">

@@ -8,11 +8,22 @@ body {
     body {
         grid-template-columns: 1fr 3fr 1fr;
         grid-template-rows: auto 1fr min-content;
+
+        background-color: rgb(41, 41, 41);
+        
     }
 }
 
+a:-webkit-any-link {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+
 header, footer, nav, main, aside {
-    background-color: #ffe3b9a6;
+    background-color: #ffdfb6;
+    box-shadow: 5px 5px 5px rgba(0, 238, 255, 0.596);
+    margin : 5px
 }
 
 header, footer {
@@ -32,7 +43,7 @@ nav{
 main{
     border: 1px solid #000;
     border-radius: 12px;
-    padding: 0.5em;
+    padding: 2em;
     grid-column: 2;
 }
 
@@ -41,6 +52,12 @@ aside{
     border-radius: 12px;
     padding: 0.5em;
     grid-column: 3;
+}
+
+.divContainerFooterSince{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .headerTop {
@@ -55,7 +72,8 @@ aside{
 }
 
 #divContainerRight {
-    font: 1em sans-serif;
+    
+    font: normal 1em sans-serif;
     display: flex;
     align-items: center;
 }
@@ -64,8 +82,21 @@ aside{
     margin-left: 25px;
 }
 
-.divContainerFooterSince{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+#navHeader{
+    text-align: center;
+}
+
+#loginBtnCurserSwitch{
+    font: 1em sans-serif;
+    background-color: transparent;
+    border-style: none;
+    cursor: pointer;
+}
+
+#username {
+    margin-bottom: 10px;
+}
+
+#password{
+    margin-bottom: 10px;
 }
