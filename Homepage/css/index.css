@@ -10,14 +10,26 @@ body {
         grid-template-rows: auto 1fr min-content;
 
         background-color: rgb(41, 41, 41);
-        
     }
+}
+
+.highlights1{
+    font-weight: bold;
+    font-style: italic;
 }
 
 a:-webkit-any-link {
     color: black;
     cursor: pointer;
     text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+button:hover{
+    background-color: rgb(0, 225, 255);
 }
 
 header, footer, nav, main, aside {
@@ -93,10 +105,30 @@ aside{
     cursor: pointer;
 }
 
+#loginBtnCurserSwitch:hover{
+    text-decoration: underline;
+}
+
 #username {
     margin-bottom: 10px;
 }
 
 #password{
     margin-bottom: 10px;
+}
+
+#divContainerLogin{
+    padding: 20px;
+}
+
+#bild1 {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+
+}
+
+#divContainerMain1{
+    display : flex;
+    align-items: top;
 }
