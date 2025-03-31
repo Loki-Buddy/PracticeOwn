@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Bighorn",
+        "type": "Sturmgewehr",
+        "talent": "Big Game Hunter",
+        "description": "Beim Zielen über Kimme und Korn wechselt die Waffe in den halbautomatischen Modus und verursacht 450% zusätzlichen Waffenschaden pro Schuss.",
+        "location": "Erhältlich in legendären Missionen und Fraktionsstützpunkten."
+    },
+    {
+        "name": "Bullet King",
+        "type": "Leichtes Maschinengewehr",
+        "talent": "Bullet Hell",
+        "description": "Diese Waffe muss niemals nachgeladen werden. Jeder 100. Treffer auf einen Gegner lädt Munition in die Reserven des Spielers und seiner Verbündeten auf.",
+        "location": "Kann in Missionen mit der Rikers-Fraktion gefunden werden; höhere Schwierigkeitsgrade erhöhen die Drop-Chance."
+    },
+    {
+        "name": "Regulus",
+        "type": "Pistole",
+        "talent": "Regicide",
+        "description": "Kopfschuss-Kills verursachen eine Explosion, die 400% Waffenschaden verursacht und Gegner im Umkreis von 5 Metern mit Blutung belegt.",
+        "location": "Der genaue Fundort ist derzeit nicht bekannt."
+    },
+    {
+        "name": "The Ravenous",
+        "type": "Gewehr",
+        "talent": "Geri und Freki",
+        "description": "Beim Abfeuern aus der rechten Schulter werden offensive Primer auf das Ziel angewendet; aus der linken Schulter defensive Primer. Das Wechseln der Schulter und erneutes Feuern detoniert die Primer und verursacht zusätzlichen Schaden oder gewährt Bonus-Rüstung.",
+        "location": "Der genaue Fundort ist derzeit nicht bekannt."
+    },
+    {
+        "name": "Lady Death",
+        "type": "Maschinenpistole",
+        "talent": "Breath Free",
+        "description": "Bewegung generiert Stapel, die den Waffenschaden erhöhen. Kills gewähren zusätzliche Bewegungsgeschwindigkeit.",
+        "location": "Kann von benannten Bossen in New York, insbesondere von Adam und Eva im Two Bridges-Distrikt, sowie aus Hyena-Fraktionskisten erlangt werden."
+    },
+    {
+        "name": "Pestilenz",
+        "type": "Leichtes Maschinengewehr",
+        "talent": "Seuche der Outcasts",
+        "description": "Treffer belegen das Ziel mit einem Debuff, der über Zeit Schaden verursacht. Stirbt ein Gegner mit diesem Debuff, werden die Stapel auf nahegelegene Feinde übertragen.",
+        "location": "Kann in der Dark Zone gefunden werden."
+    },
+    {
+        "name": "Kendras Freiheit",
+        "type": "Pistole",
+        "talent": "Liberty of Death",
+        "description": "Jeder Treffer gewährt einen Stapel; Kopftreffer verbrauchen alle Stapel und reparieren den Schild um einen bestimmten Prozentsatz pro Stapel.",
+        "location": "Erfordert das Sammeln mehrerer Komponenten und eine Blaupause aus spezifischen Missionen."
+    },
+    {
+        "name": "Süße Träume",
+        "type": "Schrotflinte",
+        "talent": "Sandman",
+        "description": "Nahkampfangriffe mit dieser Waffe töten Nicht-Elite-Gegner sofort (mit Cooldown).",
+        "location": "Kann von benannten Outcast-Bossen erlangt werden."
+    },
+    {
+        "name": "Nemesis",
+        "type": "Scharfschützengewehr",
+        "talent": "Electromagnetic Accelerator",
+        "description": "Der Schaden erhöht sich basierend darauf, wie lange die Schusstaste gedrückt gehalten wird.",
+        "location": "Erfordert das Sammeln mehrerer Teile aus den Missionen des Washington National Airport und eine Blaupause aus der Tidal Basin-Mission."
+    },
+    {
+        "name": "Gnadenlos",
+        "type": "Gewehr",
+        "talent": "Binary Trigger",
+        "description": "Halbautomatisches Gewehr mit Doppelschlag-Abzug; aufeinanderfolgende Schüsse verursachen zusätzlichen Schaden.",
+        "location": "Kann als zufälliger Drop von benannten Hyena-Gegnern in Missionen oder der offenen Welt erhalten werden."
+    },
+    {
+        "name": "Adlerträger",
+        "type": "Sturmgewehr",
+        "talent": "Eagle's Strike",
+        "description": "Kopfschüsse erhöhen die Stabilität und Genauigkeit; Kills gewähren temporären Waffenschaden und reduzieren erlittenen Schaden.",
+        "location": "Exklusiv im Raid 'Operation Dark Hours' erhältlich."
+    },
+    {
+        "name": "Diamantrücken",
+        "type": "Gewehr",
+        "talent": "Agonizing Bite",
+        "description": "Markiert zufällig ein Ziel; der erste Schuss gegen dieses Ziel verursacht zusätzlichen Schaden und garantiert einen kritischen Treffer.",
+        "location": "Kann durch Abschluss der Expeditionen im Kenly College erhalten werden."
+    }
+]

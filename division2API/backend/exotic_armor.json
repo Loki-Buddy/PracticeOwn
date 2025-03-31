@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Tardigrade Armour System",
+        "type": "Chest",
+        "talent": "Ablative Nano-Plattierung",
+        "description": "Wenn die Rüstung eines Verbündeten oder von Ihnen selbst zerstört wird, gewährt dieses Talent 80% der maximalen Rüstung als Bonus-Rüstung für 10 Sekunden.",
+        "core_attribute": "+170.000 Rüstung",
+        "secondary_attributes": [
+            "kritische Trefferchance",
+            "kritischer Trefferschaden",
+            "Rüstungsregeneration"
+        ]
+    },
+    {
+        "name": "Memento",
+        "type": "Backpack",
+        "talent": "Kill Confirmed",
+        "description": "Das Aufsammeln von Trophäen gewährt kurzzeitige und langfristige Boni auf Waffenschaden, Bonus-Rüstung und Fertigkeitseffizienz.",
+        "core_attributes": [
+            "+15% Waffenschaden",
+            "+170.000 Rüstung",
+            "+1 Fertigkeitenrang"
+        ],
+        "secondary_attributes": [
+            "kritische Trefferchance",
+            "kritischer Trefferschaden",
+            "Fertigkeiten-Eile"
+        ]
+    },
+    {
+        "name": "Coyote's Mask",
+        "type": "Mask",
+        "talent": "Rudelinstinkt",
+        "description": "Gewährt abhängig von der Entfernung zum Ziel verschiedene Boni auf kritische Trefferchance und kritischen Trefferschaden.",
+        "core_attribute": "+15% Waffenschaden",
+        "secondary_attributes": [
+            "kritische Trefferchance",
+            "kritischer Trefferschaden"
+        ]
+    },
+    {
+        "name": "BTSU Datagloves",
+        "type": "Gloves",
+        "talent": "Elementares Gerät",
+        "description": "Fertigkeiten, die Statuseffekte anwenden, erhalten +50% Dauer und +50% Fertigkeiten-Eile.",
+        "core_attribute": "+1 Fertigkeitenrang",
+        "secondary_attributes": [
+            "Fertigkeiten-Eile",
+            "Status-Effekt-Stärke"
+        ]
+    },
+    {
+        "name": "NinjaBike Messenger Kneepads",
+        "type": "Kneepads",
+        "talent": "Parkour",
+        "description": "Das Überqueren von Hindernissen oder das Klettern gewährt +25% Bonus-Rüstung für 5 Sekunden.",
+        "core_attribute": "+170.000 Rüstung",
+        "secondary_attributes": [
+            "Rüstungsregeneration",
+            "kritische Trefferchance",
+            "kritischer Trefferschaden"
+        ]
+    },
+    {
+        "name": "Imperial Dynasty",
+        "type": "Holster",
+        "talent": "Drachenblick",
+        "description": "Automatisches Anzünden eines zufälligen Gegners innerhalb von 20 Metern alle 35 Sekunden.",
+        "core_attribute": "+1 Fertigkeitenrang",
+        "secondary_attributes": [
+            "Fertigkeiten-Eile",
+            "Status-Effekt-Stärke"
+        ]
+    },
+    {
+        "name": "Vile",
+        "type": "Mask",
+        "talent": "Toxische Lieferung",
+        "description": "An Gegnern angewendete Statuseffekte verursachen zusätzlichen Schaden über Zeit, basierend auf 50% des Fertigkeitenschadens.",
+        "core_attribute": "+1 Fertigkeitenrang",
+        "secondary_attributes": [
+            "Fertigkeiten-Eile",
+            "Status-Effekt-Stärke"
+        ]
+    },
+    {
+        "name": "Waveform",
+        "type": "Holster",
+        "talent": "Wechselstrom",
+        "description": "Erhöht abwechselnd den Fertigkeitenschaden der ausgerüsteten Fertigkeiten um bis zu 30%, wechselt alle 5 Sekunden.",
+        "core_attribute": "+1 Fertigkeitenrang",
+        "secondary_attributes": [
+            "Fertigkeiten-Eile",
+            "Fertigkeitenschaden"
+        ]
+    },
+    {
+        "name": "Ridgeway's Pride",
+        "type": "Chest",
+        "talent": "Blutkanten",
+        "description": "Das Zufügen von Blutung an Gegner innerhalb von 15 Metern heilt Sie um bis zu 48% Ihrer Rüstung.",
+        "core_attribute": "+15% Waffenschaden",
+        "secondary_attributes": [
+            "kritische Trefferchance",
+            "kritischer Trefferschaden"
+        ]
+    }
+]
